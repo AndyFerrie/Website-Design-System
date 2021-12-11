@@ -17,27 +17,28 @@ body {
    font-weight: bold;
 }
 
-.color-label {
+.color-label, .color-rgb {
     padding: 10px 0px;
+    color: #fff;
 }
 
-.blue .color-label, .blue .color-block {
+.blue .color-label, .blue .color-rgb {
     background-color: #03658C;
 }
 
-.yellow .color-label {
+.yellow .color-label, .yellow .color-rgb {
     background-color: #F2B705;
 }
 
-.lightOrange .color-label {
+.lightOrange .color-label, .lightOrange .color-rgb {
     background-color: #F29F05;
 }
 
-.darkOrange .color-label {
+.darkOrange .color-label, .darkOrange .color-rgb {
     background-color: #F28705;
 }
 
-.red .color-label {
+.red .color-label, .red .color-rgb {
     background-color: #A62014;
 }
 
