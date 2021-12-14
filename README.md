@@ -1,4 +1,4 @@
-# CodeCademy Project: Build Your Own Cheat Sheet
+# CodeCademy Project: Build a Website Design System
 
 This is my solution to the Build a Website Design System challenge in CodeCademy's Web Development Fundamentals Course
 
