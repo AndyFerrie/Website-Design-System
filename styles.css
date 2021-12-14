@@ -71,7 +71,7 @@ img {
 }
 
 .fonts-container {
-    background-image: url("/quickbrownfox.jpg");
+    background-image: url("quickbrownfox.jpg");
     background-repeat: no-repeat;
     background-position: left;
     width: 100%;
