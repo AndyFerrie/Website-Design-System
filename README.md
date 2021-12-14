@@ -36,7 +36,7 @@ In this project, you’ll be building your own basic design system for a website
 
 ### What I learned
 
-I learned how to make a scroll box. I also learned how to use Adobe Colors to find color trends.
+I learned how to make a scroll box and I also learned how to use Adobe Colors to find color trends. Moreover, I experimented with images. Finally, I learned not to use / before my stylesheet and images otherwise they wont load on Github pages.
 
 ### Continued development
 
