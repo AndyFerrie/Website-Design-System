@@ -12,6 +12,7 @@ This is my solution to the Build a Website Design System challenge in CodeCademy
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+- [Acknowledgements](#Acknowledgements)
 
 ## Overview
 
@@ -29,7 +30,7 @@ In this project, you’ll be building your own basic design system for a website
 
 ### Links
 
-- Live Site URL: [Cheat Sheet](https://andyferrie.github.io/Cheat-Sheet/)
+- Live Site URL: [Website Design System](https://andyferrie.github.io/Website-Design-System/)
 
 ## My process
 
@@ -45,3 +46,7 @@ I tried to incorporate a hidden checkbox as a CSS only solution to hide and show
 
 - [Adobe Color](https://color.adobe.com/create/color-wheel) - A great resource for colour palettes.
 - [CSS Collapsible Menu - codeburst.io](https://codeburst.io/how-to-make-a-collapsible-menu-using-only-css-a1cd805b1390) - A guide to making collapsible menus using a hidden checkbox.
+
+### Acknowledgements
+
+- [VMG.ie](https://www.behance.net/gallery/43220685/Poster-The-quick-brown-fox-jumps-over-the-lazy-dog) - This is the source of the poster I used as a background.
